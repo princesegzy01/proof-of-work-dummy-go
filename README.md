@@ -8,6 +8,6 @@ There exist a bloch which when hashed with a random seeds produced an output wit
 
 To run this code
 
-`python proof-of-work.py`
+`go run proof-of-work.go`
 
 This code can be extended and improved to fit whatever its needed for.
